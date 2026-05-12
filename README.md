@@ -64,7 +64,7 @@
 
 #### *Richard Schwartz — No Bad Parts*
 
-[Not specifically about masks, but useful for thinking of protective “parts” of the self as trying to keep you safe rather than as enemies.](https://archive.org/details/no-bad-parts-healing-trauma-and-restoring-wholeness-richard-schwartz/No%252520Bad%252520Parts%25253B%252520Healing%252520Trauma%252520and%252520Restoring%252520Wholeness%252520%252520%2525282021%252529-Richard%252520Schwartz/page/n3/mode/2up?ui=embed&wrapper=false)
+[Not specifically about masks, but useful for thinking of protective “parts” of the self as trying to keep you safe rather than as enemies.](https://archive.org/details/no-bad-parts-healing-trauma-and-restoring-wholeness-richard-schwartz/No%25252520Bad%25252520Parts%2525253B%25252520Healing%25252520Trauma%25252520and%25252520Restoring%25252520Wholeness%25252520%25252520%252525282021%25252529-Richard%25252520Schwartz/page/n3/mode/2up?ui=embed&wrapper=false)
 
 
 
@@ -84,7 +84,39 @@
 
 [Probably the best academic book for perfectionism in children/teens, achievement pressure, mental-health costs, and school/family environments.](https://www.scribd.com/document/945088754/Perfectionism-in-Childhood-and-Adolescence-a-Developmental-Flett-Gordon-L-Hewitt-Paul-L-2021-Dae3202da0c716a365da2c27eae4b72a-Anna)
 
-# 
+
+
+#### *Jacques Lacan - The Four Fundamental Concepts of Psychoanalysis — Seminar XI*
+
+[Lacan best work for beginners](https://www.docdroid.net/sBWNGMh/four-fundamentals-pdf)
+
+
+
+## **Carl Jung Subsection**
+
+
+
+#### *Man and His Symbols*
+
+[dreams, symbols, archetypes, and the unconscious](https://archive.org/details/B-001-004-443-ALL/page/n15/mode/2up)
+
+
+
+#### *Two Essays on Analytical Psychology*
+
+[ego, unconscious, individuation, persona, anima/animus, and the relation between conscious and unconscious life.](https://archive.org/details/in.ernet.dli.2015.218694/page/n277/mode/2up)
+
+
+
+#### *Psychological Types*
+
+[introversion, extraversion, intuition, thinking, feeling, and sensation.](https://archive.org/details/psychological_types)
+
+
+
+
+
+
 
 # **Strong studies / academic articles**
 
@@ -156,7 +188,7 @@
 
 #### *Goldman \& Kernis, authenticity and healthy psychological functioning*
 
-[links authenticity with self-esteem, life satisfaction, and psychological functioning.](https://d1wqtxts1xzle7.cloudfront.net/49455346/Role_of_Authenticity_in_Healthy_Psycholo20161008-11684-1vhsqtt-libre.pdf?1475946553=&response-content-disposition=inline%25253B+filename%25253DRole_of_Authenticity_in_Healthy_Psycholo.pdf&Expires=1778502822&Signature=VMjuzob9ttvvbX4TvcfPlVzbnUoFd4eW~nSJ2HVVwGahDAXB95KSnBbLZPSIXQpKewlXW9i5H0dFa4mx7fSBQ2L8RHFkKchqZxZ2Hp8fPbaG7EAKAcuhTIpt-YJKG927Edm4cJQFRqbUPZvRKT9ZzfVe00ouzlJlMFsHe5182iHzgKCM1u1apt9vwqX1yRhto52UKDmJCpjZeTLO~BbLUgboiu9bjPRP5MUIO0xa5eLvKfyVgBfxPEbqmMKWz-9ZLXXMAOc587SZAld~K4W3~IzJzsMJwyE23DcAfUjUXpkTyQKuVDTUQW3sEOdG~tMNqOqLWcl6Nf4q7M6oWcrNEA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+[links authenticity with self-esteem, life satisfaction, and psychological functioning.](https://d1wqtxts1xzle7.cloudfront.net/49455346/Role_of_Authenticity_in_Healthy_Psycholo20161008-11684-1vhsqtt-libre.pdf?1475946553=&response-content-disposition=inline%2525253B+filename%2525253DRole_of_Authenticity_in_Healthy_Psycholo.pdf&Expires=1778502822&Signature=VMjuzob9ttvvbX4TvcfPlVzbnUoFd4eW~nSJ2HVVwGahDAXB95KSnBbLZPSIXQpKewlXW9i5H0dFa4mx7fSBQ2L8RHFkKchqZxZ2Hp8fPbaG7EAKAcuhTIpt-YJKG927Edm4cJQFRqbUPZvRKT9ZzfVe00ouzlJlMFsHe5182iHzgKCM1u1apt9vwqX1yRhto52UKDmJCpjZeTLO~BbLUgboiu9bjPRP5MUIO0xa5eLvKfyVgBfxPEbqmMKWz-9ZLXXMAOc587SZAld~K4W3~IzJzsMJwyE23DcAfUjUXpkTyQKuVDTUQW3sEOdG~tMNqOqLWcl6Nf4q7M6oWcrNEA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 
 
@@ -242,7 +274,7 @@
 
 #### *Messina et al., attachment orientations and emotion regulation*
 
-[avoidant attachment is associated with defensive over-regulation strategies.](https://www.research.unipd.it/retrieve/66337153-0632-4521-8de6-fa18a8bbbeba/Messina%252520et%252520al%252520%25282023%2529%252520Attachment%252520orientations%252520and%252520emotion.pdf)
+[avoidant attachment is associated with defensive over-regulation strategies.](https://www.research.unipd.it/retrieve/66337153-0632-4521-8de6-fa18a8bbbeba/Messina%25252520et%25252520al%25252520%2525282023%252529%25252520Attachment%25252520orientations%25252520and%25252520emotion.pdf)
 
 
 
